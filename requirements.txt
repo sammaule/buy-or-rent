@@ -1,0 +1,6 @@
+dash
+numpy
+numpy-financial
+ruff
+dash_bootstrap_components
+pandas
